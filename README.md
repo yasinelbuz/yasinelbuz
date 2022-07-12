@@ -9,7 +9,6 @@ Ayrıca öğrendiklerimi [bloğumda](https://yasinelbuz.github.io/) paylaşmaya
 özen gösteriyorum.
 
 
-
 ## Diller ve Araçlar: 
 - Css3
 - Sass
@@ -23,10 +22,12 @@ Ayrıca öğrendiklerimi [bloğumda](https://yasinelbuz.github.io/) paylaşmaya
 - Wordpress
 
 ## Linkler <br>
+- [Email] (<a href="mailto:yasinelbuz@gmail.com">yasinelbuz@gmail.com</a>)
 - [GitHub](https://github.com/yasinelbuz)
 - [Blog](https://yasinelbuz.github.io/)<br>
 - [Linkedin](https://www.linkedin.com/in/yasin-elb%C3%BCz-314b8b4b/)<br>
 - [Youtube](https://www.youtube.com/user/unutulanmod)<br>
 - [Instagram](https://www.instagram.com/yasinelbuz/) <br>
 - [Twitter](https://twitter.com/elbuz_yasin) <br>
+
 
