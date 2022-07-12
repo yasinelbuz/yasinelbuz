@@ -4,8 +4,8 @@
 Merhaba, ben Yasin
 
 İstanbul'da yaşıyorum. Aktif olarak **Javascript** ve **React** üzerine çalışıyorum.<br>
-Yaptığım çalışmaları **Github** ve **Youtube** üzerinden paylaşıyorum.<br> 
-Ayrıca öğrendiklerimi bloğumda paylaşmaya
+Yaptığım çalışmaları [Github](https://github.com/yasinelbuz) ve [Youtube](https://www.youtube.com/user/unutulanmod) üzerinden paylaşıyorum.<br> 
+Ayrıca öğrendiklerimi [bloğumda](https://yasinelbuz.github.io/) paylaşmaya
 özen gösteriyorum.
 
 ## Diller ve Araçlar: 
