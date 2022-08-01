@@ -3,10 +3,8 @@
 # Hakkımda
 Merhaba, ben Yasin
 
-İstanbul'da yaşıyorum. Aktif olarak Javascript ve React üzerine çalışıyorum. Yaptığım çalışmaları Github, yazılarımı Medium üzerinden paylaşıyorum.
-
 İstanbul'da yaşıyorum. Aktif olarak **Javascript** ve **React** üzerine çalışıyorum.<br>
-Yaptığım çalışmaları [Github](https://github.com/yasinelbuz) , yazılarımı [Medium](https://medium.com/@handbuz) üzerinden paylaşıyorum.<br> 
+Yaptığım çalışmaları [Github](https://github.com/yasinelbuz), yazılarımı [Medium](https://medium.com/@handbuz) üzerinden paylaşıyorum.<br> 
 Ayrıca öğrendiklerimi [bloğumda](https://yasinelbuz.github.io/) paylaşmaya
 özen gösteriyorum.
 
