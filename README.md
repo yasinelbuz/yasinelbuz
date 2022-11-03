@@ -1,4 +1,4 @@
 Merhabalar,
 
-Kişisel web sayfama çok özen gösteriyorum. <br/>
+bakmanızı öneririm. Bakmazsanızda canınız sağolsun :)  <br/>
 https://yasinelbuz.com
