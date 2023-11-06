@@ -1,1 +1,1 @@
-https://yasinelbuz.com
+https://dailyread.net
