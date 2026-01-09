@@ -1,5 +1,7 @@
 **Side Project**
+
 **A minimalist alternative to Duolingo.**
+
 *Inspired by platforms like Duolingo, a reading-focused
 learning experience was designed.*
 
