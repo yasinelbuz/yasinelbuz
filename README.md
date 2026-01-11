@@ -9,5 +9,5 @@ learning experience was designed.*
 
 Contact: yasinelbuz@gmail.com
 
-![enter image description here](https://1sentence.online/home/dashboard-screen.png)
+![1sentence.online](<img width="1416" height="672" alt="image" src="https://github.com/user-attachments/assets/36afd272-91e9-42d2-b68a-ca40d363227c" />)
 
